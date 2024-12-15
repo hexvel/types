@@ -28,6 +28,7 @@ class MessagesMessageAttachmentType(Enum):  # type: ignore
     PHOTO = "photo"
     AUDIO = "audio"
     VIDEO = "video"
+    VIDEO_MESSAGE = "video_message"
     DOC = "doc"
     LINK = "link"
     MARKET = "market"
